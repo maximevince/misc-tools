@@ -1,8 +1,16 @@
-4485,Contributing to the Graphics stack on FreeBSD Help us improve our packages and kernel drivers,Jean-Sébastien Pédron,accepted confirmed,2016-01-31,11:10:00,K.4.601,00:45:00
-4464,"Could Haiku ever become a BSD? What BSD gave us, what we could still gain from it.",François Revol,accepted confirmed,2016-01-31,13:05:00,K.4.601,00:35:00
-4527,EdgeBSD: Status report Living on the edge,Pierre Pronchery,accepted confirmed,2016-01-31,09:00:00,K.4.601,01:00:00
-3858,ElectroBSD - Getting a reproducible BSD out of the door ,Fabian Keil,accepted confirmed,2016-01-31,14:35:00,K.4.601,01:00:00
-4451,FreeBSD/Xen update News from FreeBSD and Xen,"Roger Pau Monné, Wei Liu",accepted confirmed,2016-01-31,12:00:00,K.4.601,01:00:00
-4551,Interesting Things You Can Do With ZFS ,Allan Jude,accepted reconfirmed,2016-01-31,10:05:00,K.4.601,01:00:00
-3960,Open/LibreSSL in FreeBSD State of OpenSSL and LibreSSL in ports and base,Bernard Spil,accepted confirmed,2016-01-31,13:45:00,K.4.601,00:45:00
-4489,Reproducible builds in FreeBSD packages ,Baptiste Daroussin,accepted confirmed,2016-01-31,15:40:00,K.4.601,01:00:00
+0000,JerryScript An ultra-lightweight JavaScript engine,"Very Long-named Testing Bot",accepted confirmed,2017-02-03,22:25:00,AW1.126,00:25:00
+5813,Internet Of Things Devroom Opening,Maxime Vincent,accepted confirmed,2017-02-04,10:30:00,AW1.126,00:30:00
+5046,Does your coffee machine speaks Bocce Teach?,"Yaacov Zamir",accepted confirmed,2017-02-04,11:00:00,AW1.126,00:25:00
+5462,Playing with the lights Control,"Louis Opter",accepted confirmed,2017-02-04,11:30:00,AW1.126,00:25:00
+4984,ADEM Collaborative air pollution monitoring,"Dag Wieers",accepted confirmed,2017-02-04,12:00:00,AW1.126,00:25:00
+4773,FOSS Platform for Cloud Based IoT Solutions ,"Steffen Evers",accepted confirmed,2017-02-04,12:30:00,AW1.126,00:25:00
+5507,Building distributed systems with Msgflo,"Jon Nordby",accepted confirmed,2017-02-04,13:00:00,AW1.126,00:25:00
+5414,6LoWPAN in picoTCP,"Jelle De Vleeschouwer",accepted confirmed,2017-02-04,13:30:00,AW1.126,00:25:00
+5420,JerryScript An ultra-lightweight JavaScript engine,"Tilmann Scheller",accepted confirmed,2017-02-04,14:00:00,AW1.126,00:25:00
+5246,Yocto based IoT device ,"Sébastien Lambour",accepted confirmed,2017-02-04,14:30:00,AW1.126,00:25:00
+5413,Frosted Embedded POSIX OS A free POSIX OS for Cortex-M embedded systems,"Brabo Silvius",accepted confirmed,2017-02-04,15:00:00,AW1.126,00:25:00
+5454,Warp10: A new paradigm for Time Series analysis ,"Sébastien Lambour",accepted confirmed,2017-02-04,15:30:00,AW1.126,00:25:00
+5212,Project Lighthouse,"David Teller",accepted confirmed,2017-02-04,16:00:00,AW1.126,00:25:00
+5754,Scientific MicroPython for Microcontrollers,"Roberto Colistete Jr",accepted confirmed,2017-02-04,16:30:00,AW1.126,00:25:00
+5504,Iotivity from devices to cloud,"Philippe Coval",accepted confirmed,2017-02-04,17:00:00,AW1.126,00:25:00
+5048,Open Smart Grid Platform,"Jonas van den Bogaard",accepted confirmed,2017-02-04,17:30:00,AW1.126,00:25:00
