@@ -1,16 +1,14 @@
-0000,JerryScript An ultra-lightweight JavaScript engine,"Very Long-named Testing Bot",accepted confirmed,2018-02-01,00:25:00,AW1.126,22:25:00
-5813,Internet Of Things Devroom Opening,Maxime Vincent,accepted confirmed,2017-02-04,10:30:00,AW1.126,00:30:00
-5046,Does your coffee machine speaks Bocce Teach?,"Yaacov Zamir",accepted confirmed,2017-02-04,11:00:00,AW1.126,00:25:00
-5462,Playing with the lights Control,"Louis Opter",accepted confirmed,2017-02-04,11:30:00,AW1.126,00:25:00
-4984,ADEM Collaborative air pollution monitoring,"Dag Wieers",accepted confirmed,2017-02-04,12:00:00,AW1.126,00:25:00
-4773,FOSS Platform for Cloud Based IoT Solutions ,"Steffen Evers",accepted confirmed,2017-02-04,12:30:00,AW1.126,00:25:00
-5507,Building distributed systems with Msgflo,"Jon Nordby",accepted confirmed,2017-02-04,13:00:00,AW1.126,00:25:00
-5414,6LoWPAN in picoTCP,"Jelle De Vleeschouwer",accepted confirmed,2017-02-04,13:30:00,AW1.126,00:25:00
-5420,JerryScript An ultra-lightweight JavaScript engine,"Tilmann Scheller",accepted confirmed,2017-02-04,14:00:00,AW1.126,00:25:00
-5246,Yocto based IoT device ,"Sébastien Lambour",accepted confirmed,2017-02-04,14:30:00,AW1.126,00:25:00
-5413,Frosted Embedded POSIX OS A free POSIX OS for Cortex-M embedded systems,"Brabo Silvius",accepted confirmed,2017-02-04,15:00:00,AW1.126,00:25:00
-5454,Warp10: A new paradigm for Time Series analysis ,"Sébastien Lambour",accepted confirmed,2017-02-04,15:30:00,AW1.126,00:25:00
-5212,Project Lighthouse,"David Teller",accepted confirmed,2017-02-04,16:00:00,AW1.126,00:25:00
-5754,Scientific MicroPython for Microcontrollers,"Roberto Colistete Jr",accepted confirmed,2017-02-04,16:30:00,AW1.126,00:25:00
-5504,Iotivity from devices to cloud,"Philippe Coval",accepted confirmed,2017-02-04,17:00:00,AW1.126,00:25:00
-5048,Open Smart Grid Platform,"Jonas van den Bogaard",accepted confirmed,2017-02-04,17:30:00,AW1.126,00:25:00
+ID,Event title,Speakers,Event state,Day,Start time,Room,Duration
+0000,Title of this very very long titled dummy introduction and testing event,"Very Long-named Testing Bot",accepted confirmed,2018-02-01,00:25:00,AW1.126,22:25:00
+7169,A Guided Tour of Eclipse IoT: 3 Software Stacks for IoT ,Benjamin Cabé,accepted confirmed,2018-02-04,13:05:00,AW1.125,00:25:00
+7103,Accessing your Mbed device from anywhere using Pagekite How to create a Mbed library for Pagekite,Bert Outtier,accepted confirmed,2018-02-04,10:25:00,AW1.125,00:25:00
+6229,FOSS Platform for Cloud Based IoT Solutions Eclipse-IOT FOSS Platform for Cloud IoT,Steffen Evers,accepted confirmed,2018-02-04,14:25:00,AW1.125,00:25:00
+6428,Home automation - Not as simple as you think ,Steven Goodwin,accepted confirmed,2018-02-04,11:05:00,AW1.125,00:25:00
+7301,IoT DevRoom Opening Overview of the day,"",accepted confirmed,2018-02-04,09:30:00,AW1.125,00:15:00
+6950,IoT.js - A JavaScript platform for the Internet of Things ,Ziran Sun,accepted confirmed,2018-02-04,15:05:00,AW1.125,00:25:00
+7023,Mirai and Computer Vision Security and function of connected webcams,Michael Schloh von Bennewitz,accepted confirmed,2018-02-04,11:45:00,AW1.125,00:25:00
+7143,OSS-7: an opensource DASH7 stack When active RFID meets IoT and how to use DASH7 to build flexible IoT solutions,Glenn Ergeerts,accepted confirmed,2018-02-04,16:25:00,AW1.125,00:25:00
+7126,The dark side of Internet of things Privacy and security concerns related to IoT,Dipesh Monga,accepted confirmed,2018-02-04,15:45:00,AW1.125,00:25:00
+6235,"The IoT botnet wars, Linux devices, and the absence of basic security hardening ",GregDiStefano,accepted confirmed,2018-02-04,12:25:00,AW1.125,00:25:00
+6921,Tizen:RT A lightweight RTOS platform for low-end IoT devices,Philippe Coval,accepted confirmed,2018-02-04,13:45:00,AW1.125,00:25:00
+6952,Turning On the Lights with Home Assistant and MQTT ,Leon Anavi,accepted confirmed,2018-02-04,09:50:00,AW1.125,00:25:00

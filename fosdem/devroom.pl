@@ -19,22 +19,25 @@ my $confname;
 my $confspeaker;
 my $conf_text = "";
 my $conf_speaker = "";
-#my $font_size_date          = 30000;
-#my $font_size_speaker       = 40000;
-#my $font_size_conf_text     = 60000;
-#
-#my $font_size_rem_time      = 100000;
-#my $font_size_green_time    = 100000;
-#my $font_size_orange_time   = 110000;
-#my $font_size_red_time      = 120000;
-my $font_size_date          = 20000;
-my $font_size_speaker       = 20000;
-my $font_size_conf_text     = 30000;
 
-my $font_size_rem_time      = 30000;
-my $font_size_green_time    = 30000;
-my $font_size_orange_time   = 35000;
-my $font_size_red_time      = 40000;
+my $font_size_date          = 30000;
+my $font_size_speaker       = 40000;
+my $font_size_conf_text     = 60000;
+
+my $font_size_rem_time      = 100000;
+my $font_size_green_time    = 100000;
+my $font_size_orange_time   = 110000;
+my $font_size_red_time      = 120000;
+
+#my $font_size_date          = 20000;
+#my $font_size_speaker       = 20000;
+#my $font_size_conf_text     = 30000;
+#
+#my $font_size_rem_time      = 30000;
+#my $font_size_green_time    = 30000;
+#my $font_size_orange_time   = 35000;
+#my $font_size_red_time      = 40000;
+#
 my $white = Gtk2::Gdk::Color->new (0xFFFF,0xFFFF,0xFFFF);
 
 sub updatedisplay() {
